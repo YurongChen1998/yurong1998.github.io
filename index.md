@@ -17,7 +17,7 @@ https://github.com/YurongChen1998/MVTec-AD-C)
 [Gooogle Scholar](https://scholar.google.com/citations?hl=zh-CN&user=-HuRr-EAAAAJ)
 - **Yurong Chen**, Yaonan Wang, Hui Zhang, "Prior Images Guided Generative Autoencoder Model for Dual-Camera Compressive Spectral Imaging," _IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)_, 2024. [[PDF]](https://ieeexplore.ieee.org/abstract/document/10499714/) [[Code]](https://github.com/YurongChen1998/PiE-Dual-Camera-Spectral-Compressive-Imaging)
   
-- **Yurong Chen**, Yaonan Wang, Hui Zhang, "Prior Image Guided Snapshot Compressive Spectral Imaging," _IEEE Transactions on Pattern Analysis and Machine Intelligence (TPMAI)_, 2023. [[PDF]](https://ieeexplore.ieee.org/abstract/document/10098166/) [[Code]](https://github.com/YurongChen1998/Prior-Image-Guided-Snapshot-Spectral-Compressive-Imaging) 
+- **Yurong Chen**, Yaonan Wang, Hui Zhang, "Prior Image Guided Snapshot Compressive Spectral Imaging," _IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)_, 2023. [[PDF]](https://ieeexplore.ieee.org/abstract/document/10098166/) [[Code]](https://github.com/YurongChen1998/Prior-Image-Guided-Snapshot-Spectral-Compressive-Imaging) 
   
 - **Yurong Chen**, Hui Zhang, Yaonan Wang, et al., "Flex-DLD: Deep Low-rank Decomposition Model with Flexible Priors for Hyperspectral Image Denoising and Restoration," _IEEE Transactions on Image Processing (TIP)_, 2023. [[PDF]](https://ieeexplore.ieee.org/abstract/document/10423584/) [[Code]](https://github.com/YurongChen1998/Flex-DLD-for-HSIs-Denoising-and-Restoration)
 
