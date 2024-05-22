@@ -34,6 +34,7 @@ https://github.com/YurongChen1998/MVTec-AD-C)
 - **Yurong Chen**, Haoteng Tang, Lei Guo, et al., "A Generalized Framework of Pathlength Associated Community Estimation for Brain Structural Network," _IEEE 17th International Symposium on Biomedical Imaging (ISBI)_, 2020. [[PDF]](https://ieeexplore.ieee.org/abstract/document/9098552/)
 
 ## Miscellaneous
+- Raman spectrometer via off-the-shelf optics[Youtube](https://youtu.be/e04f3bgdZqc)[BliBli](https://www.bilibili.com/video/BV1HJ4m1P7NH/).
 - [Photograph](https://github.com/YurongChen1998/YurongChen1998.github.io/tree/gh-pages/img/Photo)
 - [《归国杂记》](https://mp.weixin.qq.com/s/QwgqeyRPMrYuW-8vS5j9Tw)
 
