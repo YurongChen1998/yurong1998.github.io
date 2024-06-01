@@ -8,10 +8,6 @@
 Contact me Email: chenyurong1998 AT outlook.com
 
 
-## Dataset
-- HVAD: Hyperspectral Vaccine Anomaly Detection Dataset [[Link]](https://github.com/YurongChen1998/Hunan-University-Hyperspectral-Image-Dataset)
-- MVTec AD-C Robustness Benchmark: The Corrupted MVTec Anomaly Detection Dataset [[Link]](
-https://github.com/YurongChen1998/MVTec-AD-C)
 
 ## Publications
 [Gooogle Scholar](https://scholar.google.com/citations?hl=zh-CN&user=-HuRr-EAAAAJ)
@@ -37,6 +33,11 @@ https://github.com/YurongChen1998/MVTec-AD-C)
 - Raman spectrometer via off-the-shelf optics [[Youtube]](https://youtu.be/e04f3bgdZqc) [[BliBli]](https://www.bilibili.com/video/BV1HJ4m1P7NH/).
 - [Photograph](https://github.com/YurongChen1998/YurongChen1998.github.io/tree/gh-pages/img/Photo)
 - [《归国杂记》](https://mp.weixin.qq.com/s/QwgqeyRPMrYuW-8vS5j9Tw)
+
+## Dataset
+- HVAD: Hyperspectral Vaccine Anomaly Detection Dataset [[Link]](https://github.com/YurongChen1998/Hunan-University-Hyperspectral-Image-Dataset)
+- MVTec AD-C Robustness Benchmark: The Corrupted MVTec Anomaly Detection Dataset [[Link]](
+https://github.com/YurongChen1998/MVTec-AD-C)
 
 ## Study Blog
 - The implementation of the Total Variation Denoising: [matlab](https://github.com/YurongChen1998/yurong-lib/tree/main/Machine_Learning_Algorithms/Total_Variation_Denoising_MM).
